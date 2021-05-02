@@ -1,7 +1,8 @@
+## First steps
 1) ```chmod +x apply.sh```
 2) ```chmod +x delete.sh```
-## create your cluster
+## Create your cluster
 ```.apply.sh```
 
-##delete all your resources
+## Delete all your resources
 ```.delete.sh```
